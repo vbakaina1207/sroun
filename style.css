@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 550px;
+    height: 719px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+}
+ button{
+    width: 143px;
+    height: 45px;
+    border: 1px solid #D5D4D8;
+    background-color: white;
+    color: #4A4E74;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    border-radius: 7px;
+    margin: 10px;
+}
+
+#result{
+    margin: 25px;
+}
